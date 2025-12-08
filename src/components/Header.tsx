@@ -63,7 +63,7 @@ const Header = ({ cartItemCount = 0 }: HeaderProps) => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <Link to="/store" className="text-2xl font-bold hover:opacity-90 transition">
-            Anase Eco Store
+            Ananse Eco Store
           </Link>
 
           <div className="flex items-center gap-6">
