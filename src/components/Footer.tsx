@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 py-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-lg font-bold mb-4">Anase Eco Store</h3>
+            <h3 className="text-lg font-bold mb-4">HIVE CONSULT</h3>
             <p className="text-sm opacity-90">
               Sustainable tote bags made from eco-friendly materials. 
               Shop guilt-free with our 100% recyclable products.
@@ -45,7 +45,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-6 text-center text-sm opacity-75">
-          <p>&copy; 2025 Anase Eco Store. All rights reserved.</p>
+          <p>&copy; 2025 HIVE CONSULT. All rights reserved.</p>
         </div>
       </div>
     </footer>
