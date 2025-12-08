@@ -1,3 +1,14 @@
+## ⚠️ Project Attribution Notice
+
+This repository is a fork of the official Hive Consults security lab:
+https://github.com/BishopOdedeyi/anase-secure-lab
+
+This version is maintained for **personal learning and documentation purposes only**.
+All core project credit belongs to **Hive Consults**.
+
+
+
+
 # Ananse Eco Store
 
 ```sh
